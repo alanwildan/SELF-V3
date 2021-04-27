@@ -39,3 +39,5 @@ Jika npm install error, silahkan install 2×
 * [`Hafizh`](https://github.com/HAFizh-15) 
 * [`MHANKBARBAR`](https://github.com/MhankBarBar)
 * [`HEXAGONZ`](https://github.com/Hexagonz)
+
+* BACA CARA INSTALL!!!
