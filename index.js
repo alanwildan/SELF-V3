@@ -1,5 +1,5 @@
                    /*
-                       HAI KAWAN MAKASIH UDAH PAKE
+                       HAI KAWAN MAKASIH UDAH PAKE.
                        
                        SPECIAL THANKS TO : MhankBarBar, Hafizh, Hexagonz, Adiwajshing/baileys
                        
