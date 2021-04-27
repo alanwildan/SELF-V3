@@ -1,21 +1,21 @@
-                   /*
-                       HAI KAWAN MAKASIH UDAH PAKE.
+/*
+         HAI KAWAN MAKASIH UDAH PAKE.
                        
-                       SPECIAL THANKS TO : MhankBarBar, Hafizh, Hexagonz, Adiwajshing/baileys
+         SPECIAL THANKS TO : MhankBarBar, Hafizh, Hexagonz, Adiwajshing/baileys
                        
-                       RECODE By : Alwil.S.
-                       Enjoy for using....
-                   */
+         RECODE By : Alwil.S.
+         Enjoy for using....
+*/
 const { 
-                  WAConnection, 
-                  MessageType, 
-                  Presence, 
-                  mentionedJid, 
-                  Mimetype, 
-                  GroupSettingChange, 
-                  ChatModification, 
-                  WA_DEFAULT_EPHEMERAL, 
-                  WA_MESSAGE_STUB_TYPES 
+       WAConnection, 
+       MessageType, 
+       Presence, 
+       mentionedJid, 
+       Mimetype, 
+       GroupSettingChange, 
+       ChatModification, 
+       WA_DEFAULT_EPHEMERAL, 
+       WA_MESSAGE_STUB_TYPES 
 } = require('@adiwajshing/baileys')
 const { color, bgcolor } = require('./lib/color')
 const { wait, simih, getBuffer, h2k, generateMessageID, getGroupAdmins, getRandom, banner, start, info, success, close } = require('./lib/functions')
@@ -577,7 +577,7 @@ menunya = `╭────「 *ABOUT*」────
 
 • MENU-SELF
 
-◪ [ᴜsɪɴɢ ᴀᴘɪ]  
+◪ [𝘂𝘀𝗶𝗻𝗴 𝗮𝗽𝗶]  
      ╭───────────────❏ 
 ❍┤ *${prefix}kali* [2|8]  
 ❍┤ *${prefix}persegipjg* [lebar|panjang]  
@@ -611,7 +611,7 @@ menunya = `╭────「 *ABOUT*」────
 ❍┤ *${prefix}greyscale* [reply gambar]  
      ╰───────────────❏
      
-◪ [ɴᴏ ᴀᴘɪ/sᴄʀᴀᴘᴇʀ]  
+◪ [𝗻𝗼 𝗮𝗽𝗶/𝘀𝗰𝗿𝗮𝗽]  
      ╭───────────────❏ 
 ❍┤ *${prefix}upswimg* [reply image]  
 ❍┤ *${prefix}upswvid* [reply video]  
@@ -1007,24 +1007,7 @@ case 'listgroup':
 					txt += `Nama grup : ${ingfo[i].subject}\nID grup : ${ingfo[i].id}\nDibuat : ${moment(`${ingfo[i].creation}` * 1000).tz('Asia/Jakarta').format('DD/MM/YYYY HH:mm:ss')}\nJumlah Peserta : ${ingfo[i].participants.length}\n\n`
 				}
 				fakegroup(txt)
-				break
-			case 'creategrup': 
-case 'creategroup': 
-case 'createg':
-				argz = arg.includes('|')
-				if (mek.message.extendedTextMessage != undefined){
-                    mentioned = mek.message.extendedTextMessage.contextInfo.mentionedJid
-					let anji = await createGroup(argz[0], mentioned)
-					fakegroup(JSON.stringify(anji))
-				} else {
-					reply(`Penggunaan ${prefix}creategrup namagrup|@tag`)
-				}
-				break
-				case 'batrei':
-				 case 'battrey':
-         let batreiNow = global.batrei[global.batrei.length - 1]
-         selfb.sendMessage(from, `${batreiNow}%`, text)
-         break
+	                 break
          case 'stat':
  case 'ping':
 				   case 'p':
