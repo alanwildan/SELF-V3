@@ -30,7 +30,7 @@ $ npm audit fix
 $ npm start
 
 Tinggal Scan Qr Di WhatsApp Mu
-Jika bash install.sh error, Silahkan ketik npm install
+bash install.sh error?, Silahkan ketik npm install
 ```
 
 ## THANKS TO
