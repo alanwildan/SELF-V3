@@ -25,13 +25,13 @@ $ pkg update && pkg upgrade
 $ pkg install git -y && pkg install ffmpeg -y && pkg install tesseract -y && pkg install nodejs -y
 $ git clone https://github.com/alanwildan/SELF-V3
 $ cd SELF-V3
-$ npm install //Jika error, silahkan install 2×
+$ npm install
 $ npm audit fix
 $ npm start
 
 Tinggal Scan Qr Di WhatsApp Mu
 Cara menampilkan menu : zhelp/zmenu
-
+Jika npm install error, silahkan install 2×
 ```
 
 ## THANKS TO
