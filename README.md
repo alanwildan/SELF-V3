@@ -25,7 +25,7 @@ $ pkg update && pkg upgrade
 $ pkg install git -y && pkg install ffmpeg -y && pkg install tesseract -y && pkg install nodejs -y
 $ git clone https://github.com/alanwildan/SELF-V3
 $ cd SELF-V3
-$ bash install.sh
+$ npm install
 $ npm audit fix
 $ npm start
 
