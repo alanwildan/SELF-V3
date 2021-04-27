@@ -7,4 +7,4 @@ apt-get install ffmpeg
 apt-get install tesseract
 npm install
 
-echo "DIA ATAS ERROR? JIKA ERROR SILAHKAN KETIK npm install JIKA TIDAK ERROR KANG KETIK npm start"
+echo "DIA ATAS ERROR? JIKA ERROR SILAHKAN KETIK npm install JIKA TIDAK ERROR KETIK npm start"
