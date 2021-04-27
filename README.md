@@ -13,7 +13,7 @@
 </p>
 
 Last Update...
-* Fitur? Liat sendiri lah '-'
+* Fitur? Liat sendiri lah!
 * Update : (Offline, Online, Public Mode, Self Mode, Multi Prefix)
 * By Lord [`HEXAGONZ`](https://github.com/Hexagonz)
 
