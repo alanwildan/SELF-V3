@@ -1,11 +1,12 @@
 # SELF-V3
+
 <div align="center">
-<img src="" alt="SelfBot WhatsApp" width="300" />
+<img src="https://i.ibb.co/Btjy1WH/9607f3d0c4fe.jpg" alt="SelfBot WhatsApp" width="300" />
 
 Last Update...
 * Fitur? Liat sendiri lah '-'
 * Update : (Offline, Online, Public Mode, Self Mode, Multi Prefix)
-* By [`HEXAGONZ`](https://github.com/Hexagonz)
+* By Lord [`HEXAGONZ`](https://github.com/Hexagonz)
 
 
 # INSTALL
