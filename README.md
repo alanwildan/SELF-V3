@@ -3,6 +3,14 @@
 <div align="center">
 <img src="https://i.ibb.co/Btjy1WH/9607f3d0c4fe.jpg" alt="SelfBot WhatsApp" width="300" />
 
+>
+>
+>
+</div>
+<p align="center">
+  <a href="https://github.com/alanwildan"><img title="Author" src="https://img.shields.io/badge/Author-Alanwildan-red.svg?style=for-the-badge&logo=github" /></a>
+  <h4 align="center">
+</p>
 Last Update...
 * Fitur? Liat sendiri lah '-'
 * Update : (Offline, Online, Public Mode, Self Mode, Multi Prefix)
