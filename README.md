@@ -22,9 +22,9 @@ Last Update...
 
 ```bash
 $ pkg update && pkg upgrade
-$ pkg install git -y && pkg install ffmpeg -y && pkg install nodejs -y
-$ git clone https://github.com/alanwildan/SELFBOT2
-$ cd SELFBOT2
+$ pkg install git -y && pkg install ffmpeg -y && pkg install tesseract -y && pkg install nodejs -y
+$ git clone https://github.com/alanwildan/SELF-V3
+$ cd SELF-V3
 $ npm install
 $ npm audit fix
 $ npm start
