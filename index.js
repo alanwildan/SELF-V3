@@ -1,5 +1,5 @@
                    /*
-                       HAI KAWAN MAKASIH UDAG PAKE
+                       HAI KAWAN MAKASIH UDAH PAKE
                        
                        SPECIAL THANKS TO : MhankBarBar, Hafizh, Hexagonz, Adiwajshing/baileys
                        
@@ -50,7 +50,7 @@ const fetch = require('node-fetch')
 const { webp2mp4File} = require('./lib/webp2mp4')
 const ffmpeg = require('fluent-ffmpeg')
 const apikey = 'OneDayOneCharity'
-const lolkey = 'a945b6f40c36eb870252c5eb'
+const lolkey = 'Your_Key'
 const vinz = 'apivinz'
 const Exif = require('./lib/exif');
 const exif = new Exif();
@@ -60,7 +60,6 @@ packname = 'SelfBot'
 author = 'WhatsApp'
 hit_today = []
 blocked = []
-prefissx = '!'
 owner = '6285793432434'
 banChats = true
 offline = false
