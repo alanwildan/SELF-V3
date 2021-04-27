@@ -30,7 +30,6 @@ $ npm audit fix
 $ npm start
 
 Tinggal Scan Qr Di WhatsApp Mu
-Cara menampilkan menu : zhelp/zmenu
 Jika npm install error, silahkan install 2×
 ```
 
