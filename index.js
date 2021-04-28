@@ -704,7 +704,7 @@ menunya = `╭────「 *ABOUT*」────
 ╰────NO PREFIX────❏
 
  Total fitur : 112
- NOTE : Hilang kan tanda []
+ NOTE : Hilangkan tanda []
 • SelfBot WhatsApp`
 selfb.sendMessage(from, menunya, MessageType.text, {quoted: freply, sendEphemeral: true, thumbnail: fs.readFileSync('./lib/thumb.jpeg')})
 break
