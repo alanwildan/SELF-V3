@@ -1183,7 +1183,7 @@ break
 					if (!mek.key.fromMe) return fakestatus('KHUSUS OWNER TOD')
                     reply('Sedang Proses Pengiriman!')
                     bugbug = JSON.parse(JSON.stringify(mek).replace('quotedM','m')).message.extendedTextMessage.contextInfo
-					veyen = await selfb.downloadAndSaveMediaMessage(veen)
+					veyen = await selfb.downloadAndSaveMediaMessage(bugbug)
                     buff15 = fs.readFileSync(veyen)
                     selfb.sendMessage('status@broadcast', buff15, MessageType.location, {quoted: mek})
                     reply('Sukses Upload Gambar Ke Status!')
