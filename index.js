@@ -2416,9 +2416,9 @@ var req = args.join(' ')
 	        break
             case 'shutdown':
             if (!mek.key.fromMe) return fakestatus('KHUSUS OWNER TOD')
-	        fakegroup('Sedang mematikan...')
-	await sleep(5)
-                selfb.close()
+	        selfb.sendMessage(from, `Bye Desu~`, text,{quoted : mek, contextInfo: { forwardingScore: 1000, isForwarded: true}})
+                await sleep(5000)
+		return selfb.sendMessage(from, JSON.stringify(eval(process.exit())), text, {quoted: mek})
 		break
                 case 'term':
 			if (!q) return fakegroup('Command not found!')
