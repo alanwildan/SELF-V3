@@ -39,3 +39,8 @@ bash install.sh error?, Silahkan ketik npm install
 * [`Hafizh`](https://github.com/HAFizh-15) 
 * [`MHANKBARBAR`](https://github.com/MhankBarBar)
 * [`HEXAGONZ`](https://github.com/Hexagonz)
+
+## NOTE 
+
+* KASIH BINTANG LAH BANGG :)
+* ADA BUG ATAY ERROR? Lapor kawan[`WhatsApp`](https://api.whatsapp.com/send?phone=6285793432434) 
