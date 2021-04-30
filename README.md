@@ -43,4 +43,4 @@ bash install.sh error?, Silahkan ketik npm install
 ## NOTE 
 
 * KASIH BINTANG LAH BANGG :)
-* ADA BUG ATAY ERROR? Lapor kawan[`WhatsApp`](https://api.whatsapp.com/send?phone=6285793432434) 
+* ADA BUG ATAU ERROR? Lapor kawan[`WhatsApp`](https://api.whatsapp.com/send?phone=6285793432434) 
